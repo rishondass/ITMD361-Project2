@@ -1,0 +1,39 @@
+#main-nav{
+    background-color: red;
+    overflow: hidden;
+    margin: 0;
+    p
+}
+
+#main-nav ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+#main-nav a{
+   display: block;
+   padding: 10px 20px;
+   text-decoration: none;
+   color: white;
+}
+
+
+#main-nav a:hover{
+    background-color: rgb(255, 255, 255);
+    color:black;
+}
+
+#main-container{
+    margin: 20px;
+}
+
+#hero-section{
+    width: 100%;
+    height: 30vh;
+    background-color: gray;
+    margin: 0;
+}
+
