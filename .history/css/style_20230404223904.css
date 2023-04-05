@@ -66,9 +66,6 @@ To be added
     width: 500px;
 }
 
-
-
-.hobby-container-item{
+.hobby-container{
     float: left;
-    background-color:rgb(245, 244, 244);
 }
